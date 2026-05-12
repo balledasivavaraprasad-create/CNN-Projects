@@ -124,18 +124,6 @@ python main.py
 
 ---
 
-# 📊 Model Performance
-
-| Metric              | Value    |
-| ------------------- | -------- |
-| Training Accuracy   | Add Here |
-| Validation Accuracy | Add Here |
-| Loss                | Add Here |
-
-> 📌 Update these values after training your final model.
-
----
-
 # 📸 Results
 
 Add screenshots here:
