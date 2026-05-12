@@ -221,8 +221,8 @@ Passionate about:
 
 # 📢 Connect With Me
 
-💼 LinkedIn: Add Your LinkedIn Here
-📧 Email: Add Your Email Here
+💼 LinkedIn: www.linkedin.com/in/siva-varaprasad
+📧 Email: balledasivavaraprasad@gmail.com
 
 ---
 
